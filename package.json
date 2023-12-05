@@ -4,7 +4,6 @@
   "description": "All developed slack apps on different branches along with boilerplate app at main branch",
   "main": "index.js",
   "keywords": [],
-  "type": "module",
   "author": "",
   "license": "ISC",
   "dependencies": {
